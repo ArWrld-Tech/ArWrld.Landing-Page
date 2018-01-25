@@ -542,6 +542,12 @@ canvas {
   vertical-align: bottom;
 }
 
+iframe {
+    width: 560px;
+    display: block;
+    margin: 0 auto;
+}
+
 #particles-js {
   position: absolute;
   width: 100%;
